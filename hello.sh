@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Hello from git-workflow-practice"
+echo "Hello, DevOps world!"
 echo "Learning branches and merges"
