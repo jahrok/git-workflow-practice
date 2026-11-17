@@ -1,0 +1,14 @@
+# Secrets and keys
+.env
+*.pem
+*.key
+id_ed25519*
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
